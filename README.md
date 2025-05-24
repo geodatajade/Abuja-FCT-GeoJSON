@@ -14,4 +14,4 @@ This repository contains high-resolution **GeoJSON boundary data** for **Abuja, 
 
 ## 💵 **Purchase the GeoJSON Map**
 Support my work and get instant access to the geojson datwa for **$2** on Gumroad:  
-👉 [Buy on Gumroad](https://geodatajade.gumroad.com/l/abujageojson?autocomplete=true&layout=discover&query=abuja+&recommended_by=search&_gl=1*1x5almw*_ga*MjU3MTM4NzQ4LjE3NDY4MDI2OTE.*_ga_6LJN6D94N6*czE3NDc0Njg2MzIkbzEwJGcxJHQxNzQ3NDcyMjc4JGowJGwwJGgw)
+👉 [Buy on Gumroad](https://geodatajade.gumroad.com/l/abujageojson)
